@@ -1,6 +1,10 @@
 # Note:
 This is a fork from the original that had not been updated in two months. I've merged the open PRs here
-and plan to keep this library up to date. 
+and plan to keep this library up to date.
+
+you can install it by adding this to your package.json:
+```"binance": "git+https://github.com/wrannaman/binance.git"
+```
 
 # Binance
 A wrapper for the Binance REST and WebSocket APIs.  For more information on the API and parameters for requests visit https://www.binance.com/restapipub.html.
